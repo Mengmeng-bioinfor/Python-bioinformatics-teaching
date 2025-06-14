@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Hidden system files
+.DS_Store
+
+# Data files
+data/
+*.csv
+*.tsv
+*.fastq
+*.fasta
+*.bam
+*.vcf
+
+# Conda environment lock files
+*.conda
+*.lock
+
+# Logs
+*.log
+*.tmp
+
+# IDE files
+.vscode/
+*.code-workspace
