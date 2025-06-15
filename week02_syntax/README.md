@@ -16,37 +16,37 @@ Before starting to complete the formal tasks, please complete the exercises in
 - Is 4 / 3 * 2 the same as (4 / 3) * 2 or 4 / (3 * 2)?
 Your program should look this when run:
 
-![Output one](../images/Week2%20Lab%20Picture1.png)
+![Output one](images/Week2%20Lab%20Picture1.png)
 
 Your program should look this when run:
 - What is the result of 5 + 8 / 4 - 3 * 6?
-![Output one](../images/Week2%20Lab%20Picture2.png)
+![Output one](images/Week2%20Lab%20Picture2.png)
  
 ## Task 2 – 
 Write a Python code that prompts the user to enter his/her height and assigns the user’s input to a variable named height. Then, output the value stored in the variable, i.e. the user’s entered height. Your program should look this when run: 
-![Output one](../images/Week2%20Lab%20Picture3.png)
+![Output one](images/Week2%20Lab%20Picture3.png)
 
 ## Task 3 – 
 Design a flowchart（https://en.wikipedia.org/wiki/Flowchart）for a program that obtains an item's original price and then outputs the sale price applying a 20% discount. Then write pseudo code for this. 
 Implement your pseudo-code as a Python program for the above scenario. Output the sales price to two decimal places. 
 Your program should look something like this when run: 
-![Output one](../images/Week2%20Lab%20Picture4.png)
+![Output one](images/Week2%20Lab%20Picture4.png)
 
 ## Task 4 – 
 Write a Python program that work out the volume and perimeter of a box. Assume the user will enter in whole numbers for height, width, and depth. Your program should output the perimeter 4 * (height + width + depth) and volume (height * width * depth) of the box. Your program should like this when run: 
-![Output one](../images/Week2%20Lab%20Picture5.png)
+![Output one](images/Week2%20Lab%20Picture5.png)
 
 ## Task 5 – 
 A company has determined that its annual profit is typically 23% of total sales. Write a program that asks the user to enter the projected amount of total sales, then displays the profit that will be made from that amount (Hint: use the value 0.23 to represent 23%). Your program should look something like this when run: 
-![Output one](../images/Week2%20Lab%20Picture6.png)
+![Output one](images/Week2%20Lab%20Picture6.png)
  
 ## Task 6 – 
 Assuming there are no accidents or delays, the distance that a car travels down the motorway can be calculated with the following formula: Distance = Speed x Time Consider that a car is traveling at 60 miles per hour. Write a program that displays the following: a) The distance the car will travel in 5 hours b) The distance the car will travel in 8 hours c) The distance the car will travel in 12 hours Note that a Constant must be used in this program. Your program should look something like this when run: 
-![Output one](../images/Week2%20Lab%20Picture7.png)
+![Output one](images/Week2%20Lab%20Picture7.png)
  
 ## Task 7 – 
 A car’s miles-per-gallon (MPG) can be calculated with the following formula: MPG = Miles driven / Gallons of fuel used Write a program that asks the user for the number of miles driven and the gallons of fuel used. The program should calculate the car’s MPG and display the result. Your program should look something like this when run: 
-![Output one](../images/Week2%20Lab%20Picture8.png)
+![Output one](images/Week2%20Lab%20Picture8.png)
  
  
 # Advanced Task 1
@@ -64,7 +64,7 @@ Write a program that displays the following information (See program design for 
 • The amount that Lily sold the stock for. 
 • The amount of commission Lily paid her broker when she sold the stock. 
 • Display the amount of money that Lily had left when she sold the stock and paid her broker (both times) and indicate if he made a profit in this venture. 
-![Output one](../images/Week2%20Lab%20Picture9.png)
+![Output one](images/Week2%20Lab%20Picture9.png)
  
 # Advanced Task 2
 Create a simple Python program that evaluates if a number entered by the user is odd or even and then performs various operations on that number, such as casting, evaluating booleans, and working with strings.
