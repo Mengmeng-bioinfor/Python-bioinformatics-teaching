@@ -1,4 +1,5 @@
-Week 8
+# Week 8
+
 Hopefully you have already opened this document as a Jupyter Notebook and not simply as a pdf. If not, then you need to download the file to an appropriate folder, and open the file.
 
 To open the file, if you have already installed Anaconda Individual Edition, then open Anaconda.Navigator, from which you can launch Jupyter Notebook.
@@ -9,15 +10,23 @@ The Jupyter Notebook App is a tool for creating documents (notebooks) containing
 
 For more general resources:
 
-Jupyter Notebook - https://jupyter.org/ Anaconda - https://www.anaconda.com/ Python - https://www.python.org/ The rest of this notebook is intended as an introduction to key features of Python and Jupyter Notebooks, irrespective of whether you have used Python before or not. It is not intended to be exhaustive, but will cover material that will be relevant in this module. In addition to this material, you are strongly encouarged to develop your knowledge of Python further through the use of other resources such as
+Jupyter Notebook - https://jupyter.org/
+Anaconda - https://www.anaconda.com/
+Python - https://www.python.org/
+The rest of this notebook is intended as an introduction to key features of Python and Jupyter Notebooks, irrespective of whether you have used Python before or not. It is not intended to be exhaustive, but will cover material that will be relevant in this module. In addition to this material, you are strongly encouarged to develop your knowledge of Python further through the use of other resources such as
 
-The Python tutorial - https://docs.python.org/3/tutorial/ Both Python and Jupyter Notebooks are used in various areas, including data science, so it would be well worth your while to develop your skills in this area as much as possible.
+The Python tutorial - https://docs.python.org/3/tutorial/
+Both Python and Jupyter Notebooks are used in various areas, including data science, so it would be well worth your while to develop your skills in this area as much as possible.
 
-Getting started One thing you should do at the outset is to save this noteback as a new notebook, so that you can change it as much as you want, but still go back to the original file if necessary. Go to File / Make a Copy. This creates a new notebook called Week_1_Lab-Copy1 in a file with the same name. You can change the name of the notebook (and the file) by going to File / Rename and changing it to Week_1_Lab_my_version for example, or by editing the name of the notebook at the top of the page beside the Jupyter symbol (just above the menu).
+Getting started
+One thing you should do at the outset is to save this noteback as a new notebook, so that you can change it as much as you want, but still go back to the original file if necessary. Go to File / Make a Copy. This creates a new notebook called Week_1_Lab-Copy1 in a file with the same name. You can change the name of the notebook (and the file) by going to File / Rename and changing it to Week_1_Lab_my_version for example, or by editing the name of the notebook at the top of the page beside the Jupyter symbol (just above the menu).
 
-Cell Types We need to distinguish between different types of cells. This cell is a Markdown cell, whereas the next cell below is a Code cell. Markdown cells are for formatting text rather than for running code. To see how to format headings, use italics and bold font, for example, you can go into edit mode by double-clicking on a cell. Try it for this cell. To execute the cell (and so produce the formatted text), you can go to Cell / Run Cells or use the shortcut Ctrl-Enter. (You can find other keyboard shortcuts under the Help menu.) Markdown is very useful for mathematical notation such as 2⎯⎯√ . For further details on Markdown see Markdown in Jupyter Notebook.
+Cell Types
+We need to distinguish between different types of cells. This cell is a Markdown cell, whereas the next cell below is a Code cell. Markdown cells are for formatting text rather than for running code. To see how to format headings, use italics and bold font, for example, you can go into edit mode by double-clicking on a cell. Try it for this cell. To execute the cell (and so produce the formatted text), you can go to Cell / Run Cells or use the shortcut Ctrl-Enter. (You can find other keyboard shortcuts under the Help menu.) Markdown is very useful for mathematical notation such as  2⎯⎯√
+ . For further details on Markdown see Markdown in Jupyter Notebook.
 
 The next cell below is a Code cell. You can also edit and run it as described above, but now it will execute the code and present the output below the cell.
+
 
 # Task 1
 
