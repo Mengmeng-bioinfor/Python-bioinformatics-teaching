@@ -102,7 +102,7 @@ The script is not functioning as expected. Your task is to debug the script, ens
 ###### Documentation and Readability:
 - Added docstrings and comments for each function to explain its purpose.
 
-# <font color="blue">Task 2: Advance of Python (40 points)</font>
+# <font color="blue">Task 2: Advance of Python (40%)</font>
 
 ### Task 2.1:(20%)
 
