@@ -1,4 +1,4 @@
-# <font color="blue">Task 1: Basics of Python (60 points)</font>
+# <font color="blue">Task 1: Basics of Python (60%)</font>
 
 ### Task 1.1:
 #### Objective
@@ -104,7 +104,7 @@ The script is not functioning as expected. Your task is to debug the script, ens
 
 # <font color="blue">Task 2: Advance of Python (40 points)</font>
 
-### Task 2.1:(20 points)
+### Task 2.1:(20%)
 
 #### Task Description: DNA Analysis, Alignment, and Phylogenetic Tree Construction
 
@@ -175,7 +175,7 @@ Step 4: Phylogenetic Tree Construction
 4. Efficiency:
 - Does the script execute efficiently for the given dataset?
 
-### Task 2.2: (20 points)
+### Task 2.2: (20%)
 
 ### Task Description
 The goal of this task is to analyze a cancer-associated skeletal muscle wasting dataset consisting of 1H-NMR urine metabolite data.The following parts are implemented in Python:
