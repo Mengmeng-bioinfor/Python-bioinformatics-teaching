@@ -15,12 +15,12 @@ Jupyter-based omics tutorials for MSc-level teaching
 |------|-------------------------------|
 | 1    | Introduction to Python |
 | 2    | Syntax, Comments, Variables |
-| 3    | Data Types and Operators |
-| 4    | Lists, Tuples, Sets, Dictionaries (Part 1) |
-| 5    | Lists, Tuples, Sets, Dictionaries (Part 2) |
-| 6    | Conditional Statements (`if...else`) |
+| 3    | Lists, Tuples, Sets, Dictionaries (Part 1) |
+| 4    | Lists, Tuples, Sets, Dictionaries (Part 2) |
+| 5    | Conditional Statements (`if...else`) |
+| 6    | For Loops |
 | 7    | While Loops |
-| 8    | For Loops |
+| 8    | Functions and Testing Code |
 | 9    | Functions and Testing Code |
 | 10   | Introduction to Bioinformatics with Biopython |
 | 11   | Bioinformatics Applications with Biopython (Part 2) |
