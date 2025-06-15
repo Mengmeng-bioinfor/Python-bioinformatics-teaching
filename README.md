@@ -48,7 +48,7 @@ Jupyter-based omics tutorials for MSc-level teaching
 
 ---
 
-## 📂 Repository Structure (Suggested)
+## 📂 Repository Structure
 
 - `/week01_intro/` – Getting started, Python setup  
 - `/week02_syntax_variables/`  
