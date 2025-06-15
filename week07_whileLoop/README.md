@@ -97,8 +97,11 @@ Store the metabolites in a list, and ensure no duplicates by converting it to a 
 #Define the codon table as a dictionary mapping RNA codons to peptides
 codon_table = {
     'AUG': 'Methionine', 'UGG': 'Tryptophan', 'UAC': 'Tyrosine', 'CGG': 'Arginine', # Example codons
+    
     # ... (other codons should be filled in here for a complete table)
+    
     # 'UAA', 'UAG', 'UGA' are stop codons and are not included in the codon table
+    
 }
 
 
